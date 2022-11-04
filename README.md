@@ -1,4 +1,3 @@
-![ShenYin](http://shenyin.net.cn/images/shenyin212s.png "神音工作室logo")
 # ✨Hi,I am 神音工作室
 
 ### 我们坚信月光下必有群星闪耀，我们要成为月光下的群星，只因我们只够闪耀。
