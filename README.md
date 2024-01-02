@@ -44,7 +44,10 @@
     <img alt="5Sing" src="https://img.shields.io/badge/5Sing-%E9%A1%BE%E6%9A%AE%E6%98%AD-01C99B" target="_blank" />
   </a>
    <a href="https://space.bilibili.com/386094827">
-    <img alt="BiliBili" src="https://img.shields.io/badge/BiliBili-%E4%BD%99%E9%9F%B3%E7%BB%95%E6%A2%81%E5%9B%A2%E9%98%9F-F25D8E" target="_blank" />
+    <img alt="BiliBili" src="https://img.shields.io/badge/BiliBili-%e7%a5%9e%e9%9f%b3%e7%a7%91%e6%8a%80-F25D8E" target="_blank" />
+  </a>
+     <a href="https://space.bilibili.com/349327090673554">
+    <img alt="BiliBili" src="https://img.shields.io/badge/BiliBili-神音科技-F25D8E" target="_blank" />
   </a>
 </p>
 
