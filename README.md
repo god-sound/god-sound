@@ -31,8 +31,8 @@
    <a href="https://www.missevan.com/3447373">
     <img alt="猫耳FM" src="https://img.shields.io/badge/%E7%8C%AB%E8%80%B3FM-%E7%A5%9E%E9%9F%B3%E5%B7%A5%E4%BD%9C%E5%AE%A4-000000" target="_blank" />
   </a>
-   <a href="https://afdian.net/@ShenYin_JZ">
-    <img alt="爱发电" src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%E7%A5%9E%E9%9F%B3%E5%89%A7%E5%88%B6-8E68E2" target="_blank" />
+   <a href="https://afdian.net/@ShenYin_LN">
+    <img alt="爱发电" src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%e7%a5%9e%e9%9f%b3%e7%a7%91%e6%8a%80-8E68E2" target="_blank" />
   </a>
    <a href="https://afdian.net/a/SY_yyrl">
     <img alt="爱发电" src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%E4%BD%99%E9%9F%B3%E7%BB%95%E6%A2%81-8E68E2" target="_blank" />
